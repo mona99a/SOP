@@ -1,2 +1,2 @@
-link of sop:
+sop link:
 https://mona99a.github.io/SOP/
